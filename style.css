@@ -39,12 +39,12 @@ section {
 
 .pLeft, .pRight {
     opacity: 0;
-    transform: translate(-40, 0);
+    transform: translate(-40px, 0);
     transition: 1s;
 }
 
 .pRight {
-    transform: translate(40, 0);
+    transform: translate(40px, 0);
 }
 
 .pLeft.pShow, .pRight.pShow {
